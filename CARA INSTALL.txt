@@ -1,0 +1,14 @@
+Tutorial install program Fotografer :
+1.download xampp
+2.masukan folder nizafotografi.rar ke dalam folder xampp/htdog/
+3.extrak file tersebut
+4.nyalakan xampp dengan menekan tombol start pada apache dan mysql
+5.buka halaman database dengan mengetik localhost/phpmyadmin pada browser
+6.buat database baru dengan nama tb_niza
+7.klik tb_niza kemudian import file sql yang ada pada folder nizafotografi/database/tb_niza.sql
+8.langkah selesai tinggal akses ke halaman user localhost/nizafotografi
+9.untuk halaman admin localhost/nizafotografi/admin
+10.username dan password : 
+
+username : admin
+password : admin
